@@ -1,0 +1,154 @@
+Stationsname,Stationscode,Stationsname,Schadstoff,Einheit,dataGroup,Jahr-2014,Jahr-2015,TYPE_OF_STATION,TYPE_OF_AREA,Länge,Breite,Stadt,id,c-2014,c-2015
+Datteln-Hagem,DENW002,Datteln-Hagem,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,21.1261,20.3173,Hintergrund,vorstädtisches Gebiet,7.331405,51.641383,Datteln,0,21.1261,20.3173
+Lünen-Niederaden,DENW006,Lünen-Niederaden,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,27.438,24.3654,Hintergrund,vorstädtisches Gebiet,7.569838,51.592206,Lünen,1,27.438,24.3654
+Dortmund-Eving,DENW008,Dortmund-Eving,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,27.6639,26.5309,Hintergrund,städtisches Gebiet,7.457463,51.536911,Dortmund,2,27.6639,26.5309
+Unna-Königsborn,DENW010,Unna-Königsborn,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,20.9525,20.9618,Hintergrund,vorstädtisches Gebiet,7.693835,51.547495,Unna,3,20.9525,20.9618
+Bottrop-Welheim,DENW021,Bottrop-Welheim,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,27.3434,26.3245,Industrie,städtisches Gebiet,6.976908,51.525963,Bottrop,4,27.3434,26.3245
+Gelsenkirchen-Bismarck,DENW022,Gelsenkirchen-Bismarck,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,26.9385,26.4505,Hintergrund,vorstädtisches Gebiet,7.101786,51.533646,Gelsenkirchen,5,26.9385,26.4505
+Essen-Vogelheim,DENW024,Essen-Vogelheim,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,27.6463,26.5589,Hintergrund,städtisches Gebiet,6.981045,51.496527,Essen,6,27.6463,26.5589
+Hattingen-Blankenstein,DENW029,Hattingen-Blankenstein,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,17.1108,18.0767,Hintergrund,vorstädtisches Gebiet,7.208572,51.403005,Hattingen,7,17.1108,18.0767
+Wesel-Feldmark,DENW030,Wesel-Feldmark,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,21.8786,19.3393,Hintergrund,vorstädtisches Gebiet,6.629576,51.672809,Wesel,8,21.8786,19.3393
+Duisburg-Walsum,DENW034,Duisburg-Walsum,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,26.1492,25.9033,Industrie,städtisches Gebiet,6.748402,51.524022,Duisburg,9,26.1492,25.9033
+Duisburg-Walsum,DENW034,Duisburg-Walsum,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,28.1678,25.4978,Industrie,städtisches Gebiet,6.748402,51.524022,Duisburg,10,28.1678,25.4978
+Mülheim-Styrum,DENW038,Mülheim-Styrum,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,27.4895,26.0017,Hintergrund,städtisches Gebiet,6.865107,51.45346,Mülheim,11,27.4895,26.0017
+Essen-Ost Steeler Straße,DENW043,Essen-Ost Steeler Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,37.141,35.5559,Verkehr,städtisches Gebiet,7.030603,51.451177,Essen,12,37.141,35.5559
+Essen-Ost Steeler Straße,DENW043,Essen-Ost Steeler Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,39.6062,37.7245,Verkehr,städtisches Gebiet,7.030603,51.451177,Essen,13,39.6062,37.7245
+Köln-Chorweiler,DENW053,Köln-Chorweiler,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,25.9647,24.9865,Hintergrund,städtisches Gebiet,6.884636,51.019345,Köln,14,25.9647,24.9865
+Hürth,DENW058,Hürth,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,21.9747,21.1536,Industrie,vorstädtisches Gebiet,6.873789,50.876121,Hürth,15,21.9747,21.1536
+Köln-Rodenkirchen,DENW059,Köln-Rodenkirchen,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,29.5293,31.2326,Hintergrund,vorstädtisches Gebiet,6.985164,50.889814,Köln,16,29.5293,31.2326
+Bonn-Auerberg,DENW062,Bonn-Auerberg,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,27.9723,29.8923,Hintergrund,vorstädtisches Gebiet,7.082676,50.75364,Bonn,17,27.9723,29.8923
+Simmerath (Eifel),DENW064,Simmerath (Eifel),Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,5.7294,5.9522,Hintergrund,ländlich regional,6.281069,50.653236,Simmerath,18,5.7294,5.9522
+Netphen (Rothaargebirge),DENW065,Netphen (Rothaargebirge),Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,4.815,6.7267,Hintergrund,ländlich regional,8.191932,50.930328,Netphen,19,4.815,6.7267
+Nettetal-Kaldenkirchen,DENW066,Nettetal-Kaldenkirchen,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,21.829,20.2041,Hintergrund,ländlich stadtnah,6.195868,51.326943,Nettetal,20,21.829,20.2041
+Bielefeld-Ost,DENW067,Bielefeld-Ost,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,22.09,22.4147,Hintergrund,städtisches Gebiet,8.548389,52.023169,Bielefeld,21,22.09,22.4147
+Soest-Ost,DENW068,Soest-Ost,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,14.2243,12.414,Hintergrund,ländlich stadtnah,8.148061,51.570662,Soest,22,14.2243,12.414
+Düsseldorf-Lörick,DENW071,Düsseldorf-Lörick,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,27.1433,25.2821,Hintergrund,städtisches Gebiet,6.732383,51.249211,Düsseldorf,23,27.1433,25.2821
+Ratingen-Tiefenbroich,DENW078,Ratingen-Tiefenbroich,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,25.806,25.8344,Hintergrund,vorstädtisches Gebiet,6.819967,51.303919,Ratingen,24,25.806,25.8344
+Leverkusen-Manfort,DENW079,Leverkusen-Manfort,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,28.4579,29.2568,Hintergrund,vorstädtisches Gebiet,7.005063,51.028879,Leverkusen,25,28.4579,29.2568
+Solingen-Wald,DENW080,Solingen-Wald,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,22.0995,22.5589,Hintergrund,vorstädtisches Gebiet,7.052634,51.183773,Solingen,26,22.0995,22.5589
+Borken-Gemen,DENW081,Borken-Gemen,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,18.1274,17.6602,Hintergrund,ländlich stadtnah,6.874554,51.862,Borken,27,18.1274,17.6602
+Düsseldorf Corneliusstraße,DENW082,Düsseldorf Corneliusstraße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,59.9771,58.9118,Verkehr,städtisches Gebiet,6.782565,51.21311,Düsseldorf,28,59.9771,58.9118
+Düsseldorf Corneliusstraße,DENW082,Düsseldorf Corneliusstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,63.3449,61.5074,Verkehr,städtisches Gebiet,6.782565,51.21311,Düsseldorf,29,63.3449,61.5074
+Aachen-Burtscheid,DENW094,Aachen-Burtscheid,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,12.8725,14.2457,Hintergrund,städtisches Gebiet,6.093923,50.754704,Aachen,30,12.8725,14.2457
+Münster-Geist,DENW095,Münster-Geist,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,20.3084,19.5535,Hintergrund,städtisches Gebiet,7.611581,51.936547,Münster,31,20.3084,19.5535
+Mönchengladbach Düsseldorfer Straße,DENW100,Mönchengladbach Düsseldorfer Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,22.7851,22.0625,Verkehr,städtisches Gebiet,6.458842,51.169967,Mönchengladbach,32,22.7851,22.0625
+Dortmund Steinstraße,DENW101,Dortmund Steinstraße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,39.4701,38.7078,Verkehr,städtisches Gebiet,7.464347,51.519639,Dortmund,33,39.4701,38.7078
+Duisburg Kardinal-Galen-Straße,DENW112,Duisburg Kardinal-Galen-Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,36.7491,37.3436,Verkehr,städtisches Gebiet,6.771801,51.437708,Duisburg,34,36.7491,37.3436
+Duisburg Kardinal-Galen-Straße,DENW112,Duisburg Kardinal-Galen-Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,39.6556,38.7056,Verkehr,städtisches Gebiet,6.771801,51.437708,Duisburg,35,39.6556,38.7056
+Wuppertal-Langerfeld,DENW114,Wuppertal-Langerfeld,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,24.4538,24.1663,Hintergrund,städtisches Gebiet,7.231895,51.277647,Wuppertal,36,24.4538,24.1663
+Krefeld (Hafen),DENW116,Krefeld (Hafen),Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,31.3943,28.4979,Industrie,vorstädtisches Gebiet,6.670195,51.342561,Krefeld,37,31.3943,28.4979
+Hagen Graf-von-Galen-Ring,DENW133,Hagen Graf-von-Galen-Ring,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,53.4175,48.5221,Verkehr,städtisches Gebiet,7.46353,51.362829,Hagen,38,53.4175,48.5221
+Essen Gladbecker Straße,DENW134,Essen Gladbecker Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,45.452,43.4515,Verkehr,städtisches Gebiet,7.005278,51.477931,Essen,39,45.452,43.4515
+Essen Gladbecker Straße,DENW134,Essen Gladbecker Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,48.0141,44.0482,Verkehr,städtisches Gebiet,7.005278,51.477931,Essen,40,48.0141,44.0482
+Dortmund Brackeler Straße,DENW136,Dortmund Brackeler Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,52.0048,49.1824,Verkehr,städtisches Gebiet,7.483597,51.523567,Dortmund,41,52.0048,49.1824
+Dortmund Brackeler Straße,DENW136,Dortmund Brackeler Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,50.8613,48.2315,Verkehr,städtisches Gebiet,7.483597,51.523567,Dortmund,42,50.8613,48.2315
+Hagen Wehringhauser Straße,DENW137,Hagen Wehringhauser Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,34.5788,25.2484,Verkehr,städtisches Gebiet,7.453887,51.354904,Hagen,43,34.5788,25.2484
+Köln Justinianstraße,DENW148,Köln Justinianstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,54.8196,53.6781,Verkehr,städtisches Gebiet,6.978026,50.938542,Köln,44,54.8196,53.6781
+Köln Neumarkt,DENW151,Köln Neumarkt,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,55.9926,51.1308,Verkehr,städtisches Gebiet,6.947953,50.935545,Köln,45,55.9926,51.1308
+Paderborn Bahnhofstraße,DENW157,Paderborn Bahnhofstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,49.871,47.0178,Verkehr,städtisches Gebiet,8.744098,51.714573,Paderborn,46,49.871,47.0178
+Paderborn Friedrichstraße 29,DENW158,Paderborn Friedrichstraße 29,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,49.5985,50.2455,Verkehr,städtisches Gebiet,8.747085,51.718696,Paderborn,47,49.5985,50.2455
+Essen Alfredstraße 9/11,DENW161,Essen Alfredstraße 9/11,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,53.4923,48.2558,Verkehr,städtisches Gebiet,7.004406,51.440205,Essen,48,53.4923,48.2558
+Essen Brückstraße,DENW162,Essen Brückstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,43.6961,42.1659,Verkehr,städtisches Gebiet,7.00111,51.38818,Essen,49,43.6961,42.1659
+Mönchengladbach Aachener Straße 426/428,DENW165,Mönchengladbach Aachener Straße 426/428,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,43.66,41.5725,Verkehr,städtisches Gebiet,6.409975,51.182463,Mönchengladbach,50,43.66,41.5725
+Remscheid Freiheitstraße,DENW166,Remscheid Freiheitstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,44.4047,40.9737,Verkehr,städtisches Gebiet,7.18192,51.178034,Remscheid,51,44.4047,40.9737
+Essen In der Baumschule,DENW169,Essen In der Baumschule,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,29.6742,28.5319,Hintergrund,städtisches Gebiet,7.005478,51.478487,Essen,52,29.6742,28.5319
+Essen Hombrucher Straße 21/23,DENW171,Essen Hombrucher Straße 21/23,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,55.351,-999,Verkehr,städtisches Gebiet,7.047134,51.457314,Essen,53,55.351,
+Neuss Friedrichstraße 29,DENW172,Neuss Friedrichstraße 29,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,45.4505,41.4916,Verkehr,städtisches Gebiet,6.692515,51.193975,Neuss,54,45.4505,41.4916
+Bonn Reuterstraße 24,DENW175,Bonn Reuterstraße 24,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,52.4489,50.4656,Verkehr,städtisches Gebiet,7.097058,50.722581,Bonn,55,52.4489,50.4656
+Bonn Bornheimer Straße 35a,DENW176,Bonn Bornheimer Straße 35a,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,43.0775,41.1307,Verkehr,städtisches Gebiet,7.087619,50.736963,Bonn,56,43.0775,41.1307
+Aachen Adalbertsteinweg,DENW178,Aachen Adalbertsteinweg,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,47.4674,44.3464,Verkehr,städtisches Gebiet,6.097338,50.774694,Aachen,57,47.4674,44.3464
+Schwerte,DENW179,Schwerte,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,21.6637,21.9459,Hintergrund,städtisches Gebiet,7.582295,51.448762,Schwerte,58,21.6637,21.9459
+Warstein,DENW181,Warstein,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,12.1024,11.9187,Industrie,städtisches Gebiet,8.360714,51.443012,Warstein,59,12.1024,11.9187
+Dortmund B1 Westfalendamm,DENW184,Dortmund B1 Westfalendamm,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,44.1499,41.6144,Verkehr,städtisches Gebiet,7.503074,51.504083,Dortmund,60,44.1499,41.6144
+Dortmund B1 Rheinlanddamm,DENW185,Dortmund B1 Rheinlanddamm,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,47.5473,46.4173,Verkehr,städtisches Gebiet,7.480949,51.500589,Dortmund,61,47.5473,46.4173
+Bielefeld Stapenhorststraße 59,DENW186,Bielefeld Stapenhorststraße 59,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,37.4714,-,Verkehr,städtisches Gebiet,8.521576,52.026236,Bielefeld,62,37.4714,
+Mülheim Aktienstraße 152/154,DENW187,Mülheim Aktienstraße 152/154,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,45.477,41.464,Verkehr,städtisches Gebiet,6.896149,51.441164,Mülheim,63,45.477,41.464
+Oberhausen Mülheimer Straße 117,DENW188,Oberhausen Mülheimer Straße 117,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,54.9467,52.5808,Verkehr,städtisches Gebiet,6.863657,51.474971,Oberhausen,64,54.9467,52.5808
+Wuppertal Gathe,DENW189,Wuppertal Gathe,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,51.0235,51.4778,Verkehr,städtisches Gebiet,7.147401,51.260681,Wuppertal,65,51.0235,51.4778
+Hamm Münsterstraße,DENW195,Hamm Münsterstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,40.9083,38.7434,Verkehr,städtisches Gebiet,7.809711,51.689266,Hamm,66,40.9083,38.7434
+Bielefeld Detmolder Straße,DENW200,Bielefeld Detmolder Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,-,30.6908,Verkehr,städtisches Gebiet,8.552804,52.005624,Bielefeld,67,,30.6908
+Bottrop Peterstraße,DENW201,Bottrop Peterstraße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,37.6842,-,Verkehr,städtisches Gebiet,6.924268,51.519262,Bottrop,68,37.6842,
+Herne Recklinghauser Straße,DENW203,Herne Recklinghauser Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,45.6822,41.422,Verkehr,städtisches Gebiet,7.150186,51.543141,Herne,69,45.6822,41.422
+Aachen Wilhelmstraße,DENW207,Aachen Wilhelmstraße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,49.8188,50.1776,Verkehr,städtisches Gebiet,6.095775,50.773131,Aachen,70,49.8188,50.1776
+Aachen Wilhelmstraße,DENW207,Aachen Wilhelmstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,56.9322,53.8111,Verkehr,städtisches Gebiet,6.095775,50.773131,Aachen,71,56.9322,53.8111
+Gelsenkirchen Kurt-Schumacher-Straße,DENW208,Gelsenkirchen Kurt-Schumacher-Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,51.4432,49.8875,Verkehr,städtisches Gebiet,7.084597,51.527883,Gelsenkirchen,72,51.4432,49.8875
+Oberhausen Mülheimer Straße 116,DENW209,Oberhausen Mülheimer Straße 116,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,50.4641,46.4827,Verkehr,städtisches Gebiet,6.86396,51.475005,Oberhausen,73,50.4641,46.4827
+Erwitte Soester Straße 9A,DENW210,Erwitte Soester Straße 9A,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,39.3602,35.0641,Verkehr,städtisches Gebiet,8.334714,51.611676,Erwitte,74,39.3602,35.0641
+Köln Clevischer Ring 3,DENW211,Köln Clevischer Ring 3,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,63.3006,66.2804,Verkehr,städtisches Gebiet,7.00459,50.962857,Köln,75,63.3006,66.2804
+Köln Turiner Straße,DENW212,Köln Turiner Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,46.9824,46.3434,Verkehr,städtisches Gebiet,6.957701,50.947367,Köln,76,46.9824,46.3434
+Overath Hauptstraße 55,DENW213,Overath Hauptstraße 55,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,46.2041,44.5233,Verkehr,städtisches Gebiet,7.285858,50.932806,Overath,77,46.2041,44.5233
+Essen-Frohnhausen,DENW215,Essen-Frohnhausen,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,51.2595,49.6196,Verkehr,städtisches Gebiet,6.975815,51.443197,Essen,78,51.2595,49.6196
+Düsseldorf-Bilk,DENW216,Düsseldorf-Bilk,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,59.826,56.2848,Verkehr,städtisches Gebiet,6.776388,51.202464,Düsseldorf,79,59.826,56.2848
+Köln-Weiden,DENW219,Köln-Weiden,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,56.2578,52.0837,Verkehr,städtisches Gebiet,6.835109,50.938052,Köln,80,56.2578,52.0837
+Halle (Westfalen) Lange Straße,DENW222,Halle (Westfalen) Lange Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,47.9481,39.9982,Verkehr,städtisches Gebiet,8.360942,52.061461,Halle,81,47.9481,39.9982
+Gevelsberg Hagener Straße,DENW225,Gevelsberg Hagener Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-999,35.5119,Verkehr,städtisches Gebiet,7.344286,51.320635,Gevelsberg,82,,35.5119
+Bielefeld Stapenhorststraße 42,DENW228,Bielefeld Stapenhorststraße 42,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,42.1824,40.576,Verkehr,städtisches Gebiet,8.522293,52.02596,Bielefeld,83,42.1824,40.576
+Bönen Bönener Straße,DENW230,Bönen Bönener Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,42.8484,38.176,Verkehr,städtisches Gebiet,7.750195,51.61074,Bönen,84,42.8484,38.176
+Langenfeld Schneiderstraße,DENW232,Langenfeld Schneiderstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,44.5064,40.6817,Verkehr,städtisches Gebiet,6.96917,51.120018,Langenfeld,85,44.5064,40.6817
+Witten-Zentrum,DENW239,Witten-Zentrum,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-999,42.0001,Verkehr,städtisches Gebiet,7.337297,51.438218,Witten,86,,42.0001
+Essen-Schuir (LANUV),DENW247,Essen-Schuir (LANUV),Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,30.5108,33.4138,Hintergrund,vorstädtisches Gebiet,6.965643,51.406968,Essen,87,30.5108,33.4138
+Essen-Schuir (LANUV),DENW247,Essen-Schuir (LANUV),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,29.9486,30.7621,Hintergrund,vorstädtisches Gebiet,6.965643,51.406968,Essen,88,29.9486,30.7621
+Köln-Junkersdorf Statthalterhofweg 70,DENW249,Köln-Junkersdorf Statthalterhofweg 70,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,38.0401,34.9115,Verkehr,städtisches Gebiet,6.857614,50.931615,Köln,89,38.0401,34.9115
+Köln-Junkersdorf Jungbluthbrücke,DENW250,Köln-Junkersdorf Jungbluthbrücke,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,36.6912,-,Verkehr,städtisches Gebiet,6.85028,50.93095,Köln,90,36.6912,
+Krefeld Kölner Straße 209,DENW251,Krefeld Kölner Straße 209,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,40.9222,37.2832,Verkehr,städtisches Gebiet,6.574775,51.317847,Krefeld,91,40.9222,37.2832
+Krefeld Oranierring,DENW252,Krefeld Oranierring,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,42.1809,37.8464,Verkehr,städtisches Gebiet,6.553999,51.340374,Krefeld,92,42.1809,37.8464
+Duisburg Friedrich-Ebert-Straße 30,DENW253,Duisburg Friedrich-Ebert-Straße 30,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,39.4348,36.3496,Verkehr,städtisches Gebiet,6.711915,51.411535,Duisburg,93,39.4348,36.3496
+Hagen Enneper Straße,DENW255,Hagen Enneper Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,35.7397,34.7712,Verkehr,städtisches Gebiet,7.395867,51.339466,Hagen,94,35.7397,34.7712
+Mönchengladbach Friedrich-Ebert-Straße,DENW259,Mönchengladbach Friedrich-Ebert-Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,35.9242,32.0481,Verkehr,städtisches Gebiet,6.439975,51.169437,Mönchengladbach,95,35.9242,32.0481
+Münster Weseler Straße,DENW260,Münster Weseler Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,39.3455,38.9064,Verkehr,städtisches Gebiet,7.619387,51.953267,Münster,96,39.3455,38.9064
+Münster Weseler Straße,DENW260,Münster Weseler Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,44.395,43.3948,Verkehr,städtisches Gebiet,7.619387,51.953267,Münster,97,44.395,43.3948
+Dinslaken Hans-Böckler-Straße 9,DENW262,Dinslaken Hans-Böckler-Straße 9,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,37.6751,35.5719,Verkehr,städtisches Gebiet,6.741891,51.562254,Dinslaken,98,37.6751,35.5719
+Düren Euskirchener Straße,DENW266,Düren Euskirchener Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,63.5832,61.3109,Verkehr,städtisches Gebiet,6.494618,50.80413,Düren,99,63.5832,61.3109
+Hürth Luxemburger Straße 344,DENW267,Hürth Luxemburger Straße 344,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,47.359,45.0162,Verkehr,städtisches Gebiet,6.889934,50.879855,Hürth,100,47.359,45.0162
+Münster Steinfurter Straße 11,DENW268,Münster Steinfurter Straße 11,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,38.323,37.6803,Verkehr,städtisches Gebiet,7.613536,51.968324,Münster,101,38.323,37.6803
+Münster Bült,DENW269,Münster Bült,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,46.3454,43.74,Verkehr,städtisches Gebiet,7.631364,51.963339,Münster,102,46.3454,43.74
+Siegen Frankfurter Straße,DENW272,Siegen Frankfurter Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,39.4575,38.0456,Verkehr,städtisches Gebiet,8.026075,50.870851,Siegen,103,39.4575,38.0456
+Dinslaken Hünxer Straße,DENW275,Dinslaken Hünxer Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,44.8867,41.5348,Verkehr,städtisches Gebiet,6.743404,51.563935,Dinslaken,104,44.8867,41.5348
+Essen Krayer Straße 213,DENW277,Essen Krayer Straße 213,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,46.0859,44.2154,Verkehr,städtisches Gebiet,7.080298,51.465642,Essen,105,46.0859,44.2154
+Recklinghausen Kaiserwall,DENW279,Recklinghausen Kaiserwall,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,-777,Verkehr,städtisches Gebiet,7.201686,51.613624,Recklinghausen,106,,
+Hagen Märkischer Ring 85,DENW281,Hagen Märkischer Ring 85,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,51.5295,49.1775,Verkehr,städtisches Gebiet,7.477383,51.360378,Hagen,107,51.5295,49.1775
+Eschweiler Indestraße,DENW287,Eschweiler Indestraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,44.2058,42.6089,Verkehr,städtisches Gebiet,6.264315,50.820557,Eschweiler,108,44.2058,42.6089
+Neuss Krefelder Straße,DENW289,Neuss Krefelder Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-999,42.4003,Verkehr,ländliches Gebiet,6.685209,51.202242,Neuss,109,,42.4003
+Neuss Batteriestraße,DENW290,Neuss Batteriestraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,47.4312,43.9386,Verkehr,städtisches Gebiet,6.693266,51.201385,Neuss,110,47.4312,43.9386
+Mettmann Breite Straße 10,DENW291,Mettmann Breite Straße 10,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,43.7922,41.3463,Verkehr,städtisches Gebiet,6.978922,51.249869,Mettmann,111,43.7922,41.3463
+Schwerte Hörder Straße,DENW292,Schwerte Hörder Straße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,45.49,-,Verkehr,städtisches Gebiet,7.56363,51.44654,Schwerte,112,45.49,
+Dinslaken Wilhelm-Lantermann-Straße 33,DENW293,Dinslaken Wilhelm-Lantermann-Straße 33,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,39.0054,34.7779,Verkehr,städtisches Gebiet,6.740467,51.564642,Dinslaken,113,39.0054,34.7779
+Emmerich-Elten Schmidtstraße 3,DENW294,Emmerich-Elten Schmidtstraße 3,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,36.3481,-888,Verkehr,städtisches Gebiet,6.16048,51.8724,Emmerich,114,36.3481,
+Recklinghausen Bochumer Straße,DENW296,Recklinghausen Bochumer Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,41.2341,37.4148,Verkehr,städtisches Gebiet,7.213339,51.577208,Recklinghausen,115,41.2341,37.4148
+Köln-Meschenich Brühler Landstraße,DENW297,Köln-Meschenich Brühler Landstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,42.515,40.0065,Verkehr,vorstädtisches Gebiet,6.924825,50.858997,Köln,116,42.515,40.0065
+Gladbeck Grabenstraße 42,DENW299,Gladbeck Grabenstraße 42,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,43.8603,40.8552,Verkehr,ländliches Gebiet,6.997653,51.569886,Gladbeck,117,43.8603,40.8552
+Köln Dellbrücker Hauptstraße,DENW303,Köln Dellbrücker Hauptstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,41.9844,40.2981,Verkehr,städtisches Gebiet,7.071003,50.978208,Köln,118,41.9844,40.2981
+Mülheim Kölner Straße (B1),DENW305,Mülheim Kölner Straße (B1),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,42.8621,39.3507,Verkehr,vorstädtisches Gebiet,6.863392,51.368083,Mülheim,119,42.8621,39.3507
+Jackerath,DENW329,Jackerath,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,19.2617,18.8296,Industrie,ländliches Gebiet,6.451483,51.033834,Jackerath,120,19.2617,18.8296
+Düsseldorf-Lohausen,DENW330,Düsseldorf-Lohausen,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,33.1274,-,Hintergrund,städtisches Gebiet,6.753747,51.269503,Düsseldorf,121,33.1274,
+Bochum Herner Straße 385,DENW331,Bochum Herner Straße 385,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,50.5727,46.6453,Verkehr,städtisches Gebiet,7.211139,51.512561,Bochum,122,50.5727,46.6453
+Köln Hauptstraße,DENW332,Köln Hauptstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,44.0486,39.4819,Verkehr,städtisches Gebiet,7.055722,50.883711,Köln,123,44.0486,39.4819
+Kamen Bahnhofstraße 21,DENW334,Kamen Bahnhofstraße 21,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,36.4709,33.2874,Verkehr,städtisches Gebiet,7.662739,51.588658,Kamen,124,36.4709,33.2874
+Meerbusch Meerbuscher Straße,DENW335,Meerbusch Meerbuscher Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,37.2613,32.3418,Verkehr,städtisches Gebiet,6.641622,51.267083,Meerbusch,125,37.2613,32.3418
+Köln Luxemburger Straße,DENW336,Köln Luxemburger Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,53.0915,50.3534,Verkehr,städtisches Gebiet,6.932681,50.920406,Köln,126,53.0915,50.3534
+Jüchen-Hochneukirch,DENW337,Jüchen-Hochneukirch,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,19.8625,17.9231,Industrie,ländlich stadtnah,6.469463,51.097638,Jüchen,127,19.8625,17.9231
+Duisburg-Bruckhausen,DENW338,Duisburg-Bruckhausen,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,36.7769,34.4506,Industrie,städtisches Gebiet,6.735431,51.485492,Duisburg,128,36.7769,34.4506
+Düsseldorf Volmerswerther Deich,DENW339,Düsseldorf Volmerswerther Deich,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,29.329,-888,Hintergrund,vorstädtisches Gebiet,6.75952,51.184426,Düsseldorf,129,29.329,
+Düsseldorf Ludenberger Straße,DENW340,Düsseldorf Ludenberger Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,56.1637,51.2464,Verkehr,städtisches Gebiet,6.83315,51.240755,Düsseldorf,130,56.1637,51.2464
+Siegen Sandstraße 18,DENW342,Siegen Sandstraße 18,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,37.9198,38.0078,Verkehr,städtisches Gebiet,8.02382,50.875539,Siegen,131,37.9198,38.0078
+Düsseldorf (Flughafen 1),DENW343,Düsseldorf (Flughafen 1),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-777,-,Hintergrund,städtisches Gebiet,6.76645,51.271822,Düsseldorf,132,,
+Düsseldorf (Flughafen 2),DENW344,Düsseldorf (Flughafen 2),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-777,-,Hintergrund,städtisches Gebiet,6.763922,51.269125,Düsseldorf,133,,
+Düsseldorf (Flughafen 3),DENW345,Düsseldorf (Flughafen 3),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-777,-777,Hintergrund,städtisches Gebiet,6.753858,51.269567,Düsseldorf,134,,
+Düsseldorf (Flughafen 4),DENW346,Düsseldorf (Flughafen 4),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-777,-,Hintergrund,vorstädtisches Gebiet,6.769639,51.262039,Düsseldorf,135,,
+Düsseldorf (Flughafen 5),DENW347,Düsseldorf (Flughafen 5),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-777,-777,Hintergrund,vorstädtisches Gebiet,6.810644,51.315067,Düsseldorf,136,,
+Düsseldorf (Flughafen 6),DENW348,Düsseldorf (Flughafen 6),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-777,-,Hintergrund,vorstädtisches Gebiet,6.824336,51.315061,Düsseldorf,137,,
+Düsseldorf (Flughafen 7),DENW349,Düsseldorf (Flughafen 7),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-777,-,Hintergrund,städtisches Gebiet,6.809969,51.289739,Düsseldorf,138,,
+Düsseldorf (Flughafen 8),DENW350,Düsseldorf (Flughafen 8),Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-777,-,Hintergrund,städtisches Gebiet,6.78635,51.301569,Düsseldorf,139,,
+Gelsenkirchen Grothusstraße,DENW351,Gelsenkirchen Grothusstraße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,39.1644,35.0087,Verkehr,städtisches Gebiet,7.060337,51.524281,Gelsenkirchen,140,39.1644,35.0087
+Köln Lindweilerweg 144,DENW353,Köln Lindweilerweg 144,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,42.3709,42.3136,Verkehr,städtisches Gebiet,6.899453,50.995219,Köln,141,42.3709,42.3136
+Düsseldorf Südring,DENW354,Düsseldorf Südring,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,-,37.544,Verkehr,städtisches Gebiet,6.45683,51.12031,Düsseldorf,142,,37.544
+Leverkusen Gustav-Heinemann-Str.,DENW355,Leverkusen Gustav-Heinemann-Str.,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,-,47.0061,Verkehr,städtisches Gebiet,7.010934,51.031473,Leverkusen,143,,47.0061
+Lüdenscheid Lennestraße,DENW356,Lüdenscheid Lennestraße,Stickstoffdioxid,µg/m³,halb- oder stündliche Messung,-,35.1079,Verkehr,städtisches Gebiet,7.643095,51.227609,Lüdenscheid,144,,35.1079
+Köln Bergisch Gladbacher Straße,DENW358,Köln Bergisch Gladbacher Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,42.3587,Verkehr,städtisches Gebiet,7.047528,50.970389,Köln,145,,42.3587
+Siegen Sandstraße 15,DENW360,Siegen Sandstraße 15,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,45.5353,Verkehr,städtisches Gebiet,8.020833,50.875594,Siegen,146,,45.5353
+Bielefeld-Innenstadt,DENW361,Bielefeld-Innenstadt,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,48.743,Verkehr,städtisches Gebiet,8.534306,52.023889,Bielefeld,147,,48.743
+Düsseldorf Norfer Straße,DENW362,Düsseldorf Norfer Straße,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,31.8203,Hintergrund,städtisches Gebiet,6.761111,51.200306,Düsseldorf,148,,31.8203
+Paderborn-Schloss Neuhaus,DENW363,Paderborn-Schloss Neuhaus,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,41.5547,Verkehr,städtisches Gebiet,8.711944,51.743583,Paderborn,149,,41.5547
+Bottrop Peterstraße 9,DENW364,Bottrop Peterstraße 9,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,37.7425,Verkehr,städtisches Gebiet,6.924361,51.519167,Bottrop,150,,37.7425
+Schwerte Hörder Straße 13,DENW365,Schwerte Hörder Straße 13,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,45.9835,Verkehr,städtisches Gebiet,7.563578,51.446714,Schwerte,151,,45.9835
+Herne Recklinghauser Straße 4/6,DENW369,Herne Recklinghauser Straße 4/6,Stickstoffdioxid,µg/m³,diskontinuierliche Messung,-,-777,Verkehr,städtisches Gebiet,7.150192,51.543008,Herne,152,,
