@@ -1,0 +1,154 @@
+,name,stadt,stoff,einheit,jahr_2014,jahr_2015,typ,gebiet,x,y,id,ueberschritten,change
+75,Köln Clevischer Ring 3,Köln,Stickstoffdioxid,µg/m³,63.3006,66.2804,Verkehr,städtisches Gebiet,7.00459,50.962857,75,True,2.9797999999999973
+29,Düsseldorf Corneliusstraße,Düsseldorf,Stickstoffdioxid,µg/m³,63.3449,61.5074,Verkehr,städtisches Gebiet,6.782565,51.21311,29,True,-1.8375000000000057
+99,Düren Euskirchener Straße,Düren,Stickstoffdioxid,µg/m³,63.5832,61.3109,Verkehr,städtisches Gebiet,6.494618,50.80413,99,True,-2.2723000000000013
+28,Düsseldorf Corneliusstraße,Düsseldorf,Stickstoffdioxid,µg/m³,59.9771,58.9118,Verkehr,städtisches Gebiet,6.782565,51.21311,28,True,-1.0653000000000006
+79,Düsseldorf-Bilk,Düsseldorf,Stickstoffdioxid,µg/m³,59.826,56.2848,Verkehr,städtisches Gebiet,6.776388,51.202464,79,True,-3.5412000000000035
+71,Aachen Wilhelmstraße,Aachen,Stickstoffdioxid,µg/m³,56.9322,53.8111,Verkehr,städtisches Gebiet,6.095775,50.773131,71,True,-3.1210999999999984
+44,Köln Justinianstraße,Köln,Stickstoffdioxid,µg/m³,54.8196,53.6781,Verkehr,städtisches Gebiet,6.978026,50.938542,44,True,-1.1415000000000006
+64,Oberhausen Mülheimer Straße 117,Oberhausen,Stickstoffdioxid,µg/m³,54.9467,52.5808,Verkehr,städtisches Gebiet,6.863657,51.474971,64,True,-2.3658999999999963
+80,Köln-Weiden,Köln,Stickstoffdioxid,µg/m³,56.2578,52.0837,Verkehr,städtisches Gebiet,6.835109,50.938052,80,True,-4.174100000000003
+65,Wuppertal Gathe,Wuppertal,Stickstoffdioxid,µg/m³,51.0235,51.4778,Verkehr,städtisches Gebiet,7.147401,51.260681,65,True,0.4543000000000035
+130,Düsseldorf Ludenberger Straße,Düsseldorf,Stickstoffdioxid,µg/m³,56.1637,51.2464,Verkehr,städtisches Gebiet,6.83315,51.240755,130,True,-4.917299999999997
+45,Köln Neumarkt,Köln,Stickstoffdioxid,µg/m³,55.9926,51.1308,Verkehr,städtisches Gebiet,6.947953,50.935545,45,True,-4.861800000000002
+55,Bonn Reuterstraße 24,Bonn,Stickstoffdioxid,µg/m³,52.4489,50.4656,Verkehr,städtisches Gebiet,7.097058,50.722581,55,True,-1.9832999999999998
+126,Köln Luxemburger Straße,Köln,Stickstoffdioxid,µg/m³,53.0915,50.3534,Verkehr,städtisches Gebiet,6.932681,50.920406,126,True,-2.738100000000003
+47,Paderborn Friedrichstraße 29,Paderborn,Stickstoffdioxid,µg/m³,49.5985,50.2455,Verkehr,städtisches Gebiet,8.747085,51.718696,47,True,0.6469999999999985
+70,Aachen Wilhelmstraße,Aachen,Stickstoffdioxid,µg/m³,49.8188,50.1776,Verkehr,städtisches Gebiet,6.095775,50.773131,70,True,0.3587999999999951
+72,Gelsenkirchen Kurt-Schumacher-Straße,Gelsenkirchen,Stickstoffdioxid,µg/m³,51.4432,49.8875,Verkehr,städtisches Gebiet,7.084597,51.527883,72,True,-1.5556999999999945
+78,Essen-Frohnhausen,Essen,Stickstoffdioxid,µg/m³,51.2595,49.6196,Verkehr,städtisches Gebiet,6.975815,51.443197,78,True,-1.6399000000000044
+41,Dortmund Brackeler Straße,Dortmund,Stickstoffdioxid,µg/m³,52.0048,49.1824,Verkehr,städtisches Gebiet,7.483597,51.523567,41,True,-2.822400000000002
+107,Hagen Märkischer Ring 85,Hagen,Stickstoffdioxid,µg/m³,51.5295,49.1775,Verkehr,städtisches Gebiet,7.477383,51.360378,107,True,-2.3519999999999968
+147,Bielefeld-Innenstadt,Bielefeld,Stickstoffdioxid,µg/m³,,48.743,Verkehr,städtisches Gebiet,8.534306,52.023889,147,True,
+38,Hagen Graf-von-Galen-Ring,Hagen,Stickstoffdioxid,µg/m³,53.4175,48.5221,Verkehr,städtisches Gebiet,7.46353,51.362829,38,True,-4.895399999999995
+48,Essen Alfredstraße 9/11,Essen,Stickstoffdioxid,µg/m³,53.4923,48.2558,Verkehr,städtisches Gebiet,7.004406,51.440205,48,True,-5.2364999999999995
+42,Dortmund Brackeler Straße,Dortmund,Stickstoffdioxid,µg/m³,50.8613,48.2315,Verkehr,städtisches Gebiet,7.483597,51.523567,42,True,-2.629800000000003
+46,Paderborn Bahnhofstraße,Paderborn,Stickstoffdioxid,µg/m³,49.871,47.0178,Verkehr,städtisches Gebiet,8.744098,51.714573,46,True,-2.853200000000001
+143,Leverkusen Gustav-Heinemann-Str.,Leverkusen,Stickstoffdioxid,µg/m³,,47.0061,Verkehr,städtisches Gebiet,7.010934,51.031473,143,True,
+122,Bochum Herner Straße 385,Bochum,Stickstoffdioxid,µg/m³,50.5727,46.6453,Verkehr,städtisches Gebiet,7.211139,51.512561,122,True,-3.9273999999999987
+73,Oberhausen Mülheimer Straße 116,Oberhausen,Stickstoffdioxid,µg/m³,50.4641,46.4827,Verkehr,städtisches Gebiet,6.86396,51.475005,73,True,-3.9814000000000007
+61,Dortmund B1 Rheinlanddamm,Dortmund,Stickstoffdioxid,µg/m³,47.5473,46.4173,Verkehr,städtisches Gebiet,7.480949,51.500589,61,True,-1.1300000000000026
+76,Köln Turiner Straße,Köln,Stickstoffdioxid,µg/m³,46.9824,46.3434,Verkehr,städtisches Gebiet,6.957701,50.947367,76,True,-0.6389999999999958
+151,Schwerte Hörder Straße 13,Schwerte,Stickstoffdioxid,µg/m³,,45.9835,Verkehr,städtisches Gebiet,7.563578,51.446714,151,True,
+146,Siegen Sandstraße 15,Siegen,Stickstoffdioxid,µg/m³,,45.5353,Verkehr,städtisches Gebiet,8.020833,50.875594,146,True,
+100,Hürth Luxemburger Straße 344,Hürth,Stickstoffdioxid,µg/m³,47.359,45.0162,Verkehr,städtisches Gebiet,6.889934,50.879855,100,True,-2.342800000000004
+77,Overath Hauptstraße 55,Overath,Stickstoffdioxid,µg/m³,46.2041,44.5233,Verkehr,städtisches Gebiet,7.285858,50.932806,77,True,-1.6807999999999979
+57,Aachen Adalbertsteinweg,Aachen,Stickstoffdioxid,µg/m³,47.4674,44.3464,Verkehr,städtisches Gebiet,6.097338,50.774694,57,True,-3.120999999999995
+105,Essen Krayer Straße 213,Essen,Stickstoffdioxid,µg/m³,46.0859,44.2154,Verkehr,städtisches Gebiet,7.080298,51.465642,105,True,-1.8704999999999998
+40,Essen Gladbecker Straße,Essen,Stickstoffdioxid,µg/m³,48.0141,44.0482,Verkehr,städtisches Gebiet,7.005278,51.477931,40,True,-3.9658999999999978
+110,Neuss Batteriestraße,Neuss,Stickstoffdioxid,µg/m³,47.4312,43.9386,Verkehr,städtisches Gebiet,6.693266,51.201385,110,True,-3.492599999999996
+102,Münster Bült,Münster,Stickstoffdioxid,µg/m³,46.3454,43.74,Verkehr,städtisches Gebiet,7.631364,51.963339,102,True,-2.605399999999996
+39,Essen Gladbecker Straße,Essen,Stickstoffdioxid,µg/m³,45.452,43.4515,Verkehr,städtisches Gebiet,7.005278,51.477931,39,True,-2.0004999999999953
+97,Münster Weseler Straße,Münster,Stickstoffdioxid,µg/m³,44.395,43.3948,Verkehr,städtisches Gebiet,7.619387,51.953267,97,True,-1.0002000000000066
+108,Eschweiler Indestraße,Eschweiler,Stickstoffdioxid,µg/m³,44.2058,42.6089,Verkehr,städtisches Gebiet,6.264315,50.820557,108,True,-1.596900000000005
+109,Neuss Krefelder Straße,Neuss,Stickstoffdioxid,µg/m³,,42.4003,Verkehr,ländliches Gebiet,6.685209,51.202242,109,True,
+145,Köln Bergisch Gladbacher Straße,Köln,Stickstoffdioxid,µg/m³,,42.3587,Verkehr,städtisches Gebiet,7.047528,50.970389,145,True,
+141,Köln Lindweilerweg 144,Köln,Stickstoffdioxid,µg/m³,42.3709,42.3136,Verkehr,städtisches Gebiet,6.899453,50.995219,141,True,-0.05729999999999791
+49,Essen Brückstraße,Essen,Stickstoffdioxid,µg/m³,43.6961,42.1659,Verkehr,städtisches Gebiet,7.00111,51.38818,49,True,-1.5302000000000007
+86,Witten-Zentrum,Witten,Stickstoffdioxid,µg/m³,,42.0001,Verkehr,städtisches Gebiet,7.337297,51.438218,86,True,
+60,Dortmund B1 Westfalendamm,Dortmund,Stickstoffdioxid,µg/m³,44.1499,41.6144,Verkehr,städtisches Gebiet,7.503074,51.504083,60,True,-2.535499999999999
+50,Mönchengladbach Aachener Straße 426/428,Mönchengladbach,Stickstoffdioxid,µg/m³,43.66,41.5725,Verkehr,städtisches Gebiet,6.409975,51.182463,50,True,-2.0874999999999986
+149,Paderborn-Schloss Neuhaus,Paderborn,Stickstoffdioxid,µg/m³,,41.5547,Verkehr,städtisches Gebiet,8.711944,51.743583,149,True,
+104,Dinslaken Hünxer Straße,Dinslaken,Stickstoffdioxid,µg/m³,44.8867,41.5348,Verkehr,städtisches Gebiet,6.743404,51.563935,104,True,-3.3519000000000005
+54,Neuss Friedrichstraße 29,Neuss,Stickstoffdioxid,µg/m³,45.4505,41.4916,Verkehr,städtisches Gebiet,6.692515,51.193975,54,True,-3.9589
+63,Mülheim Aktienstraße 152/154,Mülheim,Stickstoffdioxid,µg/m³,45.477,41.464,Verkehr,städtisches Gebiet,6.896149,51.441164,63,True,-4.012999999999998
+69,Herne Recklinghauser Straße,Herne,Stickstoffdioxid,µg/m³,45.6822,41.422,Verkehr,städtisches Gebiet,7.150186,51.543141,69,True,-4.260200000000005
+111,Mettmann Breite Straße 10,Mettmann,Stickstoffdioxid,µg/m³,43.7922,41.3463,Verkehr,städtisches Gebiet,6.978922,51.249869,111,True,-2.4459000000000017
+56,Bonn Bornheimer Straße 35a,Bonn,Stickstoffdioxid,µg/m³,43.0775,41.1307,Verkehr,städtisches Gebiet,7.087619,50.736963,56,True,-1.9468000000000032
+51,Remscheid Freiheitstraße,Remscheid,Stickstoffdioxid,µg/m³,44.4047,40.9737,Verkehr,städtisches Gebiet,7.18192,51.178034,51,True,-3.4309999999999974
+117,Gladbeck Grabenstraße 42,Gladbeck,Stickstoffdioxid,µg/m³,43.8603,40.8552,Verkehr,ländliches Gebiet,6.997653,51.569886,117,True,-3.0050999999999988
+85,Langenfeld Schneiderstraße,Langenfeld,Stickstoffdioxid,µg/m³,44.5064,40.6817,Verkehr,städtisches Gebiet,6.96917,51.120018,85,True,-3.8247
+83,Bielefeld Stapenhorststraße 42,Bielefeld,Stickstoffdioxid,µg/m³,42.1824,40.576,Verkehr,städtisches Gebiet,8.522293,52.02596,83,True,-1.6064000000000007
+118,Köln Dellbrücker Hauptstraße,Köln,Stickstoffdioxid,µg/m³,41.9844,40.2981,Verkehr,städtisches Gebiet,7.071003,50.978208,118,True,-1.6863000000000028
+116,Köln-Meschenich Brühler Landstraße,Köln,Stickstoffdioxid,µg/m³,42.515,40.0065,Verkehr,vorstädtisches Gebiet,6.924825,50.858997,116,True,-2.508499999999998
+81,Halle (Westfalen) Lange Straße,Halle,Stickstoffdioxid,µg/m³,47.9481,39.9982,Verkehr,städtisches Gebiet,8.360942,52.061461,81,False,-7.9498999999999995
+123,Köln Hauptstraße,Köln,Stickstoffdioxid,µg/m³,44.0486,39.4819,Verkehr,städtisches Gebiet,7.055722,50.883711,123,False,-4.566699999999997
+119,Mülheim Kölner Straße (B1),Mülheim,Stickstoffdioxid,µg/m³,42.8621,39.3507,Verkehr,vorstädtisches Gebiet,6.863392,51.368083,119,False,-3.5113999999999947
+96,Münster Weseler Straße,Münster,Stickstoffdioxid,µg/m³,39.3455,38.9064,Verkehr,städtisches Gebiet,7.619387,51.953267,96,False,-0.4391000000000034
+66,Hamm Münsterstraße,Hamm,Stickstoffdioxid,µg/m³,40.9083,38.7434,Verkehr,städtisches Gebiet,7.809711,51.689266,66,False,-2.164899999999996
+33,Dortmund Steinstraße,Dortmund,Stickstoffdioxid,µg/m³,39.4701,38.7078,Verkehr,städtisches Gebiet,7.464347,51.519639,33,False,-0.7623000000000033
+35,Duisburg Kardinal-Galen-Straße,Duisburg,Stickstoffdioxid,µg/m³,39.6556,38.7056,Verkehr,städtisches Gebiet,6.771801,51.437708,35,False,-0.9500000000000028
+84,Bönen Bönener Straße,Bönen,Stickstoffdioxid,µg/m³,42.8484,38.176,Verkehr,städtisches Gebiet,7.750195,51.61074,84,False,-4.672399999999996
+103,Siegen Frankfurter Straße,Siegen,Stickstoffdioxid,µg/m³,39.4575,38.0456,Verkehr,städtisches Gebiet,8.026075,50.870851,103,False,-1.4119000000000028
+131,Siegen Sandstraße 18,Siegen,Stickstoffdioxid,µg/m³,37.9198,38.0078,Verkehr,städtisches Gebiet,8.02382,50.875539,131,False,0.08800000000000097
+92,Krefeld Oranierring,Krefeld,Stickstoffdioxid,µg/m³,42.1809,37.8464,Verkehr,städtisches Gebiet,6.553999,51.340374,92,False,-4.3344999999999985
+150,Bottrop Peterstraße 9,Bottrop,Stickstoffdioxid,µg/m³,,37.7425,Verkehr,städtisches Gebiet,6.924361,51.519167,150,False,
+13,Essen-Ost Steeler Straße,Essen,Stickstoffdioxid,µg/m³,39.6062,37.7245,Verkehr,städtisches Gebiet,7.030603,51.451177,13,False,-1.8817000000000021
+101,Münster Steinfurter Straße 11,Münster,Stickstoffdioxid,µg/m³,38.323,37.6803,Verkehr,städtisches Gebiet,7.613536,51.968324,101,False,-0.6426999999999978
+142,Düsseldorf Südring,Düsseldorf,Stickstoffdioxid,µg/m³,,37.544,Verkehr,städtisches Gebiet,6.45683,51.12031,142,False,
+115,Recklinghausen Bochumer Straße,Recklinghausen,Stickstoffdioxid,µg/m³,41.2341,37.4148,Verkehr,städtisches Gebiet,7.213339,51.577208,115,False,-3.8192999999999984
+34,Duisburg Kardinal-Galen-Straße,Duisburg,Stickstoffdioxid,µg/m³,36.7491,37.3436,Verkehr,städtisches Gebiet,6.771801,51.437708,34,False,0.5945000000000036
+91,Krefeld Kölner Straße 209,Krefeld,Stickstoffdioxid,µg/m³,40.9222,37.2832,Verkehr,städtisches Gebiet,6.574775,51.317847,91,False,-3.638999999999996
+93,Duisburg Friedrich-Ebert-Straße 30,Duisburg,Stickstoffdioxid,µg/m³,39.4348,36.3496,Verkehr,städtisches Gebiet,6.711915,51.411535,93,False,-3.0852000000000004
+98,Dinslaken Hans-Böckler-Straße 9,Dinslaken,Stickstoffdioxid,µg/m³,37.6751,35.5719,Verkehr,städtisches Gebiet,6.741891,51.562254,98,False,-2.103200000000001
+12,Essen-Ost Steeler Straße,Essen,Stickstoffdioxid,µg/m³,37.141,35.5559,Verkehr,städtisches Gebiet,7.030603,51.451177,12,False,-1.585099999999997
+82,Gevelsberg Hagener Straße,Gevelsberg,Stickstoffdioxid,µg/m³,,35.5119,Verkehr,städtisches Gebiet,7.344286,51.320635,82,False,
+144,Lüdenscheid Lennestraße,Lüdenscheid,Stickstoffdioxid,µg/m³,,35.1079,Verkehr,städtisches Gebiet,7.643095,51.227609,144,False,
+74,Erwitte Soester Straße 9A,Erwitte,Stickstoffdioxid,µg/m³,39.3602,35.0641,Verkehr,städtisches Gebiet,8.334714,51.611676,74,False,-4.296099999999996
+140,Gelsenkirchen Grothusstraße,Gelsenkirchen,Stickstoffdioxid,µg/m³,39.1644,35.0087,Verkehr,städtisches Gebiet,7.060337,51.524281,140,False,-4.155700000000003
+89,Köln-Junkersdorf Statthalterhofweg 70,Köln,Stickstoffdioxid,µg/m³,38.0401,34.9115,Verkehr,städtisches Gebiet,6.857614,50.931615,89,False,-3.128600000000006
+113,Dinslaken Wilhelm-Lantermann-Straße 33,Dinslaken,Stickstoffdioxid,µg/m³,39.0054,34.7779,Verkehr,städtisches Gebiet,6.740467,51.564642,113,False,-4.227499999999999
+94,Hagen Enneper Straße,Hagen,Stickstoffdioxid,µg/m³,35.7397,34.7712,Verkehr,städtisches Gebiet,7.395867,51.339466,94,False,-0.9684999999999988
+128,Duisburg-Bruckhausen,Duisburg,Stickstoffdioxid,µg/m³,36.7769,34.4506,Industrie,städtisches Gebiet,6.735431,51.485492,128,False,-2.3262999999999963
+87,Essen-Schuir (LANUV),Essen,Stickstoffdioxid,µg/m³,30.5108,33.4138,Hintergrund,vorstädtisches Gebiet,6.965643,51.406968,87,False,2.9030000000000022
+124,Kamen Bahnhofstraße 21,Kamen,Stickstoffdioxid,µg/m³,36.4709,33.2874,Verkehr,städtisches Gebiet,7.662739,51.588658,124,False,-3.183500000000002
+125,Meerbusch Meerbuscher Straße,Meerbusch,Stickstoffdioxid,µg/m³,37.2613,32.3418,Verkehr,städtisches Gebiet,6.641622,51.267083,125,False,-4.919499999999999
+95,Mönchengladbach Friedrich-Ebert-Straße,Mönchengladbach,Stickstoffdioxid,µg/m³,35.9242,32.0481,Verkehr,städtisches Gebiet,6.439975,51.169437,95,False,-3.876100000000001
+148,Düsseldorf Norfer Straße,Düsseldorf,Stickstoffdioxid,µg/m³,,31.8203,Hintergrund,städtisches Gebiet,6.761111,51.200306,148,False,
+16,Köln-Rodenkirchen,Köln,Stickstoffdioxid,µg/m³,29.5293,31.2326,Hintergrund,vorstädtisches Gebiet,6.985164,50.889814,16,False,1.7033000000000023
+88,Essen-Schuir (LANUV),Essen,Stickstoffdioxid,µg/m³,29.9486,30.7621,Hintergrund,vorstädtisches Gebiet,6.965643,51.406968,88,False,0.8135000000000012
+67,Bielefeld Detmolder Straße,Bielefeld,Stickstoffdioxid,µg/m³,,30.6908,Verkehr,städtisches Gebiet,8.552804,52.005624,67,False,
+17,Bonn-Auerberg,Bonn,Stickstoffdioxid,µg/m³,27.9723,29.8923,Hintergrund,vorstädtisches Gebiet,7.082676,50.75364,17,False,1.9199999999999982
+25,Leverkusen-Manfort,Leverkusen,Stickstoffdioxid,µg/m³,28.4579,29.2568,Hintergrund,vorstädtisches Gebiet,7.005063,51.028879,25,False,0.7988999999999997
+52,Essen In der Baumschule,Essen,Stickstoffdioxid,µg/m³,29.6742,28.5319,Hintergrund,städtisches Gebiet,7.005478,51.478487,52,False,-1.1422999999999988
+37,Krefeld (Hafen),Krefeld,Stickstoffdioxid,µg/m³,31.3943,28.4979,Industrie,vorstädtisches Gebiet,6.670195,51.342561,37,False,-2.8964
+6,Essen-Vogelheim,Essen,Stickstoffdioxid,µg/m³,27.6463,26.5589,Hintergrund,städtisches Gebiet,6.981045,51.496527,6,False,-1.0873999999999988
+2,Dortmund-Eving,Dortmund,Stickstoffdioxid,µg/m³,27.6639,26.5309,Hintergrund,städtisches Gebiet,7.457463,51.536911,2,False,-1.1330000000000027
+5,Gelsenkirchen-Bismarck,Gelsenkirchen,Stickstoffdioxid,µg/m³,26.9385,26.4505,Hintergrund,vorstädtisches Gebiet,7.101786,51.533646,5,False,-0.48799999999999955
+4,Bottrop-Welheim,Bottrop,Stickstoffdioxid,µg/m³,27.3434,26.3245,Industrie,städtisches Gebiet,6.976908,51.525963,4,False,-1.0188999999999986
+11,Mülheim-Styrum,Mülheim,Stickstoffdioxid,µg/m³,27.4895,26.0017,Hintergrund,städtisches Gebiet,6.865107,51.45346,11,False,-1.4878
+9,Duisburg-Walsum,Duisburg,Stickstoffdioxid,µg/m³,26.1492,25.9033,Industrie,städtisches Gebiet,6.748402,51.524022,9,False,-0.2458999999999989
+24,Ratingen-Tiefenbroich,Ratingen,Stickstoffdioxid,µg/m³,25.806,25.8344,Hintergrund,vorstädtisches Gebiet,6.819967,51.303919,24,False,0.02839999999999776
+10,Duisburg-Walsum,Duisburg,Stickstoffdioxid,µg/m³,28.1678,25.4978,Industrie,städtisches Gebiet,6.748402,51.524022,10,False,-2.669999999999998
+23,Düsseldorf-Lörick,Düsseldorf,Stickstoffdioxid,µg/m³,27.1433,25.2821,Hintergrund,städtisches Gebiet,6.732383,51.249211,23,False,-1.8612000000000002
+43,Hagen Wehringhauser Straße,Hagen,Stickstoffdioxid,µg/m³,34.5788,25.2484,Verkehr,städtisches Gebiet,7.453887,51.354904,43,False,-9.330400000000001
+14,Köln-Chorweiler,Köln,Stickstoffdioxid,µg/m³,25.9647,24.9865,Hintergrund,städtisches Gebiet,6.884636,51.019345,14,False,-0.9782000000000011
+1,Lünen-Niederaden,Lünen,Stickstoffdioxid,µg/m³,27.438,24.3654,Hintergrund,vorstädtisches Gebiet,7.569838,51.592206,1,False,-3.0725999999999978
+36,Wuppertal-Langerfeld,Wuppertal,Stickstoffdioxid,µg/m³,24.4538,24.1663,Hintergrund,städtisches Gebiet,7.231895,51.277647,36,False,-0.2875000000000014
+26,Solingen-Wald,Solingen,Stickstoffdioxid,µg/m³,22.0995,22.5589,Hintergrund,vorstädtisches Gebiet,7.052634,51.183773,26,False,0.45940000000000225
+21,Bielefeld-Ost,Bielefeld,Stickstoffdioxid,µg/m³,22.09,22.4147,Hintergrund,städtisches Gebiet,8.548389,52.023169,21,False,0.3247
+32,Mönchengladbach Düsseldorfer Straße,Mönchengladbach,Stickstoffdioxid,µg/m³,22.7851,22.0625,Verkehr,städtisches Gebiet,6.458842,51.169967,32,False,-0.7225999999999999
+58,Schwerte,Schwerte,Stickstoffdioxid,µg/m³,21.6637,21.9459,Hintergrund,städtisches Gebiet,7.582295,51.448762,58,False,0.2822000000000031
+15,Hürth,Hürth,Stickstoffdioxid,µg/m³,21.9747,21.1536,Industrie,vorstädtisches Gebiet,6.873789,50.876121,15,False,-0.8210999999999977
+3,Unna-Königsborn,Unna,Stickstoffdioxid,µg/m³,20.9525,20.9618,Hintergrund,vorstädtisches Gebiet,7.693835,51.547495,3,False,0.009299999999999642
+0,Datteln-Hagem,Datteln,Stickstoffdioxid,µg/m³,21.1261,20.3173,Hintergrund,vorstädtisches Gebiet,7.331405,51.641383,0,False,-0.8088000000000015
+20,Nettetal-Kaldenkirchen,Nettetal,Stickstoffdioxid,µg/m³,21.829,20.2041,Hintergrund,ländlich stadtnah,6.195868,51.326943,20,False,-1.6249000000000002
+31,Münster-Geist,Münster,Stickstoffdioxid,µg/m³,20.3084,19.5535,Hintergrund,städtisches Gebiet,7.611581,51.936547,31,False,-0.7548999999999992
+8,Wesel-Feldmark,Wesel,Stickstoffdioxid,µg/m³,21.8786,19.3393,Hintergrund,vorstädtisches Gebiet,6.629576,51.672809,8,False,-2.5392999999999972
+120,Jackerath,Jackerath,Stickstoffdioxid,µg/m³,19.2617,18.8296,Industrie,ländliches Gebiet,6.451483,51.033834,120,False,-0.4321000000000019
+7,Hattingen-Blankenstein,Hattingen,Stickstoffdioxid,µg/m³,17.1108,18.0767,Hintergrund,vorstädtisches Gebiet,7.208572,51.403005,7,False,0.9658999999999978
+127,Jüchen-Hochneukirch,Jüchen,Stickstoffdioxid,µg/m³,19.8625,17.9231,Industrie,ländlich stadtnah,6.469463,51.097638,127,False,-1.9393999999999991
+27,Borken-Gemen,Borken,Stickstoffdioxid,µg/m³,18.1274,17.6602,Hintergrund,ländlich stadtnah,6.874554,51.862,27,False,-0.46720000000000184
+30,Aachen-Burtscheid,Aachen,Stickstoffdioxid,µg/m³,12.8725,14.2457,Hintergrund,städtisches Gebiet,6.093923,50.754704,30,False,1.3731999999999989
+22,Soest-Ost,Soest,Stickstoffdioxid,µg/m³,14.2243,12.414,Hintergrund,ländlich stadtnah,8.148061,51.570662,22,False,-1.8102999999999998
+59,Warstein,Warstein,Stickstoffdioxid,µg/m³,12.1024,11.9187,Industrie,städtisches Gebiet,8.360714,51.443012,59,False,-0.18369999999999997
+19,Netphen (Rothaargebirge),Netphen,Stickstoffdioxid,µg/m³,4.815,6.7267,Hintergrund,ländlich regional,8.191932,50.930328,19,False,1.9116999999999997
+18,Simmerath (Eifel),Simmerath,Stickstoffdioxid,µg/m³,5.7294,5.9522,Hintergrund,ländlich regional,6.281069,50.653236,18,False,0.22280000000000033
+53,Essen Hombrucher Straße 21/23,Essen,Stickstoffdioxid,µg/m³,55.351,,Verkehr,städtisches Gebiet,7.047134,51.457314,53,False,
+62,Bielefeld Stapenhorststraße 59,Bielefeld,Stickstoffdioxid,µg/m³,37.4714,,Verkehr,städtisches Gebiet,8.521576,52.026236,62,False,
+68,Bottrop Peterstraße,Bottrop,Stickstoffdioxid,µg/m³,37.6842,,Verkehr,städtisches Gebiet,6.924268,51.519262,68,False,
+90,Köln-Junkersdorf Jungbluthbrücke,Köln,Stickstoffdioxid,µg/m³,36.6912,,Verkehr,städtisches Gebiet,6.85028,50.93095,90,False,
+106,Recklinghausen Kaiserwall,Recklinghausen,Stickstoffdioxid,µg/m³,,,Verkehr,städtisches Gebiet,7.201686,51.613624,106,False,
+112,Schwerte Hörder Straße,Schwerte,Stickstoffdioxid,µg/m³,45.49,,Verkehr,städtisches Gebiet,7.56363,51.44654,112,False,
+114,Emmerich-Elten Schmidtstraße 3,Emmerich,Stickstoffdioxid,µg/m³,36.3481,,Verkehr,städtisches Gebiet,6.16048,51.8724,114,False,
+121,Düsseldorf-Lohausen,Düsseldorf,Stickstoffdioxid,µg/m³,33.1274,,Hintergrund,städtisches Gebiet,6.753747,51.269503,121,False,
+129,Düsseldorf Volmerswerther Deich,Düsseldorf,Stickstoffdioxid,µg/m³,29.329,,Hintergrund,vorstädtisches Gebiet,6.75952,51.184426,129,False,
+132,Düsseldorf (Flughafen 1),Düsseldorf,Stickstoffdioxid,µg/m³,,,Hintergrund,städtisches Gebiet,6.76645,51.271822,132,False,
+133,Düsseldorf (Flughafen 2),Düsseldorf,Stickstoffdioxid,µg/m³,,,Hintergrund,städtisches Gebiet,6.763922,51.269125,133,False,
+134,Düsseldorf (Flughafen 3),Düsseldorf,Stickstoffdioxid,µg/m³,,,Hintergrund,städtisches Gebiet,6.753858,51.269567,134,False,
+135,Düsseldorf (Flughafen 4),Düsseldorf,Stickstoffdioxid,µg/m³,,,Hintergrund,vorstädtisches Gebiet,6.769639,51.262039,135,False,
+136,Düsseldorf (Flughafen 5),Düsseldorf,Stickstoffdioxid,µg/m³,,,Hintergrund,vorstädtisches Gebiet,6.810644,51.315067,136,False,
+137,Düsseldorf (Flughafen 6),Düsseldorf,Stickstoffdioxid,µg/m³,,,Hintergrund,vorstädtisches Gebiet,6.824336,51.315061,137,False,
+138,Düsseldorf (Flughafen 7),Düsseldorf,Stickstoffdioxid,µg/m³,,,Hintergrund,städtisches Gebiet,6.809969,51.289739,138,False,
+139,Düsseldorf (Flughafen 8),Düsseldorf,Stickstoffdioxid,µg/m³,,,Hintergrund,städtisches Gebiet,6.78635,51.301569,139,False,
+152,Herne Recklinghauser Straße 4/6,Herne,Stickstoffdioxid,µg/m³,,,Verkehr,städtisches Gebiet,7.150192,51.543008,152,False,
