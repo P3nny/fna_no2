@@ -67,10 +67,10 @@
               pointToLayer: function(featureData, latlng) {
                 var value = featureData.properties.value;
                 var color;
-                var over = featureData.properties.value;
-                if (over > 40) {
+                var over = featureData.properties.ueberschritten;
+                if (over == 'True') {
                   color = 'red';
-                  } else {
+                } else {
                   color = 'blue';
                 }
                 return new L.CircleMarker(latlng, {
