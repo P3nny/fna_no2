@@ -1,0 +1,154 @@
+,Stationscode,Stationsname,Stadt
+0,DENW002,Datteln-Hagem,Datteln
+1,DENW006,Lünen-Niederaden,Lünen
+2,DENW008,Dortmund-Eving,Dortmund
+3,DENW010,Unna-Königsborn,Unna
+4,DENW021,Bottrop-Welheim,Bottrop
+5,DENW022,Gelsenkirchen-Bismarck,Gelsenkirchen
+6,DENW024,Essen-Vogelheim,Essen
+7,DENW029,Hattingen-Blankenstein,Hattingen
+8,DENW030,Wesel-Feldmark,Wesel
+9,DENW034,Duisburg-Walsum,Duisburg
+10,DENW034,Duisburg-Walsum,Duisburg
+11,DENW038,Mülheim-Styrum,Mülheim
+12,DENW043,Essen-Ost Steeler Straße,Essen
+13,DENW043,Essen-Ost Steeler Straße,Essen
+14,DENW053,Köln-Chorweiler,Köln
+15,DENW058,Hürth,Hürth
+16,DENW059,Köln-Rodenkirchen,Köln
+17,DENW062,Bonn-Auerberg,Bonn
+18,DENW064,Simmerath (Eifel),Simmerath
+19,DENW065,Netphen (Rothaargebirge),Netphen
+20,DENW066,Nettetal-Kaldenkirchen,Nettetal
+21,DENW067,Bielefeld-Ost,Bielefeld
+22,DENW068,Soest-Ost,Soest
+23,DENW071,Düsseldorf-Lörick,Düsseldorf
+24,DENW078,Ratingen-Tiefenbroich,Ratingen
+25,DENW079,Leverkusen-Manfort,Leverkusen
+26,DENW080,Solingen-Wald,Solingen
+27,DENW081,Borken-Gemen,Borken
+28,DENW082,Düsseldorf Corneliusstraße,Düsseldorf
+29,DENW082,Düsseldorf Corneliusstraße,Düsseldorf
+30,DENW094,Aachen-Burtscheid,Aachen
+31,DENW095,Münster-Geist,Münster
+32,DENW100,Mönchengladbach Düsseldorfer Straße,Mönchengladbach
+33,DENW101,Dortmund Steinstraße,Dortmund
+34,DENW112,Duisburg Kardinal-Galen-Straße,Duisburg
+35,DENW112,Duisburg Kardinal-Galen-Straße,Duisburg
+36,DENW114,Wuppertal-Langerfeld,Wuppertal
+37,DENW116,Krefeld (Hafen),Krefeld
+38,DENW133,Hagen Graf-von-Galen-Ring,Hagen
+39,DENW134,Essen Gladbecker Straße,Essen
+40,DENW134,Essen Gladbecker Straße,Essen
+41,DENW136,Dortmund Brackeler Straße,Dortmund
+42,DENW136,Dortmund Brackeler Straße,Dortmund
+43,DENW137,Hagen Wehringhauser Straße,Hagen
+44,DENW148,Köln Justinianstraße,Köln
+45,DENW151,Köln Neumarkt,Köln
+46,DENW157,Paderborn Bahnhofstraße,Paderborn
+47,DENW158,Paderborn Friedrichstraße 29,Paderborn
+48,DENW161,Essen Alfredstraße 9/11,Essen
+49,DENW162,Essen Brückstraße,Essen
+50,DENW165,Mönchengladbach Aachener Straße 426/428,Mönchengladbach
+51,DENW166,Remscheid Freiheitstraße,Remscheid
+52,DENW169,Essen In der Baumschule,Essen
+53,DENW171,Essen Hombrucher Straße 21/23,Essen
+54,DENW172,Neuss Friedrichstraße 29,Neuss
+55,DENW175,Bonn Reuterstraße 24,Bonn
+56,DENW176,Bonn Bornheimer Straße 35a,Bonn
+57,DENW178,Aachen Adalbertsteinweg,Aachen
+58,DENW179,Schwerte,Schwerte
+59,DENW181,Warstein,Warstein
+60,DENW184,Dortmund B1 Westfalendamm,Dortmund
+61,DENW185,Dortmund B1 Rheinlanddamm,Dortmund
+62,DENW186,Bielefeld Stapenhorststraße 59,Bielefeld
+63,DENW187,Mülheim Aktienstraße 152/154,Mülheim
+64,DENW188,Oberhausen Mülheimer Straße 117,Oberhausen
+65,DENW189,Wuppertal Gathe,Wuppertal
+66,DENW195,Hamm Münsterstraße,Hamm
+67,DENW200,Bielefeld Detmolder Straße,Bielefeld
+68,DENW201,Bottrop Peterstraße,Bottrop
+69,DENW203,Herne Recklinghauser Straße,Herne
+70,DENW207,Aachen Wilhelmstraße,Aachen
+71,DENW207,Aachen Wilhelmstraße,Aachen
+72,DENW208,Gelsenkirchen Kurt-Schumacher-Straße,Gelsenkirchen
+73,DENW209,Oberhausen Mülheimer Straße 116,Oberhausen
+74,DENW210,Erwitte Soester Straße 9A,Erwitte
+75,DENW211,Köln Clevischer Ring 3,Köln
+76,DENW212,Köln Turiner Straße,Köln
+77,DENW213,Overath Hauptstraße 55,Overath
+78,DENW215,Essen-Frohnhausen,Essen
+79,DENW216,Düsseldorf-Bilk,Düsseldorf
+80,DENW219,Köln-Weiden,Köln
+81,DENW222,Halle (Westfalen) Lange Straße,Halle
+82,DENW225,Gevelsberg Hagener Straße,Gevelsberg
+83,DENW228,Bielefeld Stapenhorststraße 42,Bielefeld
+84,DENW230,Bönen Bönener Straße,Bönen
+85,DENW232,Langenfeld Schneiderstraße,Langenfeld
+86,DENW239,Witten-Zentrum,Witten
+87,DENW247,Essen-Schuir (LANUV),Essen
+88,DENW247,Essen-Schuir (LANUV),Essen
+89,DENW249,Köln-Junkersdorf Statthalterhofweg 70,Köln
+90,DENW250,Köln-Junkersdorf Jungbluthbrücke,Köln
+91,DENW251,Krefeld Kölner Straße 209,Krefeld
+92,DENW252,Krefeld Oranierring,Krefeld
+93,DENW253,Duisburg Friedrich-Ebert-Straße 30,Duisburg
+94,DENW255,Hagen Enneper Straße,Hagen
+95,DENW259,Mönchengladbach Friedrich-Ebert-Straße,Mönchengladbach
+96,DENW260,Münster Weseler Straße,Münster
+97,DENW260,Münster Weseler Straße,Münster
+98,DENW262,Dinslaken Hans-Böckler-Straße 9,Dinslaken
+99,DENW266,Düren Euskirchener Straße,Düren
+100,DENW267,Hürth Luxemburger Straße 344,Hürth
+101,DENW268,Münster Steinfurter Straße 11,Münster
+102,DENW269,Münster Bült,Münster
+103,DENW272,Siegen Frankfurter Straße,Siegen
+104,DENW275,Dinslaken Hünxer Straße,Dinslaken
+105,DENW277,Essen Krayer Straße 213,Essen
+106,DENW279,Recklinghausen Kaiserwall,Recklinghausen
+107,DENW281,Hagen Märkischer Ring 85,Hagen
+108,DENW287,Eschweiler Indestraße,Eschweiler
+109,DENW289,Neuss Krefelder Straße,Neuss
+110,DENW290,Neuss Batteriestraße,Neuss
+111,DENW291,Mettmann Breite Straße 10,Mettmann
+112,DENW292,Schwerte Hörder Straße,Schwerte
+113,DENW293,Dinslaken Wilhelm-Lantermann-Straße 33,Dinslaken
+114,DENW294,Emmerich-Elten Schmidtstraße 3,Emmerich
+115,DENW296,Recklinghausen Bochumer Straße,Recklinghausen
+116,DENW297,Köln-Meschenich Brühler Landstraße,Köln
+117,DENW299,Gladbeck Grabenstraße 42,Gladbeck
+118,DENW303,Köln Dellbrücker Hauptstraße,Köln
+119,DENW305,Mülheim Kölner Straße (B1),Mülheim
+120,DENW329,Jackerath,Jackerath
+121,DENW330,Düsseldorf-Lohausen,Düsseldorf
+122,DENW331,Bochum Herner Straße 385,Bochum
+123,DENW332,Köln Hauptstraße,Köln
+124,DENW334,Kamen Bahnhofstraße 21,Kamen
+125,DENW335,Meerbusch Meerbuscher Straße,Meerbusch
+126,DENW336,Köln Luxemburger Straße,Köln
+127,DENW337,Jüchen-Hochneukirch,Jüchen
+128,DENW338,Duisburg-Bruckhausen,Duisburg
+129,DENW339,Düsseldorf Volmerswerther Deich,Düsseldorf
+130,DENW340,Düsseldorf Ludenberger Straße,Düsseldorf
+131,DENW342,Siegen Sandstraße 18,Siegen
+132,DENW343,Düsseldorf (Flughafen 1),Düsseldorf
+133,DENW344,Düsseldorf (Flughafen 2),Düsseldorf
+134,DENW345,Düsseldorf (Flughafen 3),Düsseldorf
+135,DENW346,Düsseldorf (Flughafen 4),Düsseldorf
+136,DENW347,Düsseldorf (Flughafen 5),Düsseldorf
+137,DENW348,Düsseldorf (Flughafen 6),Düsseldorf
+138,DENW349,Düsseldorf (Flughafen 7),Düsseldorf
+139,DENW350,Düsseldorf (Flughafen 8),Düsseldorf
+140,DENW351,Gelsenkirchen Grothusstraße,Gelsenkirchen
+141,DENW353,Köln Lindweilerweg 144,Köln
+142,DENW354,Düsseldorf Südring,Düsseldorf
+143,DENW355,Leverkusen Gustav-Heinemann-Str.,Leverkusen
+144,DENW356,Lüdenscheid Lennestraße,Lüdenscheid
+145,DENW358,Köln Bergisch Gladbacher Straße,Köln
+146,DENW360,Siegen Sandstraße 15,Siegen
+147,DENW361,Bielefeld-Innenstadt,Bielefeld
+148,DENW362,Düsseldorf Norfer Straße,Düsseldorf
+149,DENW363,Paderborn-Schloss Neuhaus,Paderborn
+150,DENW364,Bottrop Peterstraße 9,Bottrop
+151,DENW365,Schwerte Hörder Straße 13,Schwerte
+152,DENW369,Herne Recklinghauser Straße 4/6,Herne
